@@ -1,0 +1,15 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>bae47ec8-63aa-48f6-a4e1-90d3f68b66e1.ISV1.Warehouse.Integration</id>
+    <version>1.0.0.0</version>
+    <authors>ISV 1</authors>
+    <description>ISV 1 - Warehouse Integration</description>
+    <title>Warehouse Integration</title>
+    <repository type="git" url="https://github.com/anzwdev/DirectionsEMEA2022">
+    </repository>
+    <dependencies />
+  </metadata>
+  <files>
+    <file src="ISV 1_Warehouse Integration_1.0.0.0.app" target="content" />
+  </files>
+</package>

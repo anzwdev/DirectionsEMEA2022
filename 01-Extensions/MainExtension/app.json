@@ -1,0 +1,45 @@
+{
+  "id": "fad4be71-bf29-4ff6-e4e1-18d3968ff689",
+  "name": "Customer extension",
+  "publisher": "Partner",
+  "version": "1.3.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "bae47ec8-63aa-48f6-a4e1-90d3f68b66e1",
+      "name": "Warehouse integration",
+      "publisher": "ISV 1",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "846de607-f93a-433d-940e-130a1830f422",
+      "name": "Items Web Integration",
+      "publisher": "ISV 2",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

@@ -1,0 +1,15 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>846de607-f93a-433d-940e-130a1830f422.ISV2.Items.Web.Integration</id>
+    <version>1.0.0.0</version>
+    <authors>ISV 2</authors>
+    <description>ISV 2 - Items Web Integration</description>
+    <title>Items Web Integration</title>
+    <repository type="git" url="https://github.com/anzwdev/DirectionsEMEA2022">
+    </repository>
+    <dependencies />
+  </metadata>
+  <files>
+    <file src="ISV 2_Items Web Integration_1.0.0.0.app" target="content" />
+  </files>
+</package>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>bae47ec8-63aa-48f6-a4e1-90d3f68b66e1.Warehouse.Integration</id>
+        <version>1.0.0.0</version>
+        <description>ISV 1-Warehouse Integration</description>
+        <authors>ISV 1</authors>
+
+        <!-- Optional elements -->
+        <title>Warehouse Integration</title>
+        <dependencies>
+        </dependencies>
+    </metadata>
+    
+    <files>
+        <file src="ISV 1_Warehouse Integration_1.0.0.0.app" target="content" />
+    </files>
+</package>
